@@ -1,4 +1,4 @@
-const { User } = require('../modles');
+const { User } = require('../models');
 
 const resolvers = {
     Query: { 
